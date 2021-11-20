@@ -20,4 +20,5 @@ Please make sure to update tests as appropriate.
 
 ## License
 Note: This is NOT OPEN SOURCE, please support Tonec FZE
+
 [IDM](https://www.internetdownloadmanager.com)
