@@ -14,11 +14,11 @@ Once click download, it's turn to IDM to download it.
 
 
 ## Contributing
-Pull requests are from Tonec. For major changes, please open an issue in here: https://www.internetdownloadmanager.com/support/index.html .
+Pull requests are from Tonec. For major changes, please open an issue in here: [IDM Supprt](https://www.internetdownloadmanager.com/support/index.html)
 
 Please make sure to update tests as appropriate.
 
 ## License
 Note: This is NOT OPEN SOURCE, please support Tonec FZE
 
-[IDM](https://www.internetdownloadmanager.com)
+[Buy IDM](https://secure.internetdownloadmanager.com/buy_idm.html?v=639b08&lng=vn&ocl=VVlDWDAtV1M=)
